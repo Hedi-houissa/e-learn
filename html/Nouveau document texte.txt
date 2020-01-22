@@ -1,0 +1,6 @@
+la formation contient des seance et chaque seance contient le lieux , date et heur , le support de cours
+la fomation et identifier par id 
+la formation contient la liste des etudiant
+
+
+formateur deposer cours sur patforme par formation associer
